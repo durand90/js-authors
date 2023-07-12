@@ -34,7 +34,13 @@ Web application built in Microsoft Visual Studio Code. Allows users to create a 
 
 ## Screenshots
 
-![App Screenshot](/js-authors/blob/main/client/Screenshot%202023-07-11%20201801.png)
+
+# Home Page
+
+<img src="/client/Screenshot 2023-07-11 202142.png">
+
+
+# Edit Page
 
 <img src="/client/Screenshot%202023-07-11%20201801.png">
 
