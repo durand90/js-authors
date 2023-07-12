@@ -4,6 +4,39 @@
 Web application built in Microsoft Visual Studio Code. Allows users to create a list of their favorite authors. Users are able to edit or delete saved data from the database.
 
 
+## 🛠 Skills
+Javascript, HTML, CSS, React, Node, Express, Trello, React Router, MongoDB, Mongoose
+
+
+## Tech Stack
+
+**Client:** React, Redux, JSX, JavaScript, HTML, CSS
+
+**Server:** Node, Express, Mongoose
+
+
+
+## Screenshots
+
+
+# Home Page
+
+![App Screenshot](images/Screenshot%202023-07-11%20202142.png)
+
+
+# Add Page
+
+![App Screenshot](images/Screenshot%202023-07-12%20152102.png)
+
+# Edit Page
+![App Screenshot](images/Screenshot%202023-07-11%20201801.png)
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://durand90.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanfan-durand/)
+
 ## API Reference
 
 #### Get all items
@@ -27,40 +60,6 @@ Web application built in Microsoft Visual Studio Code. Allows users to create a 
 | `id`      | `number` | Retrieve "author" by "author ID" from the database
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://durand90.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanfan-durand/)
-
-
-## Screenshots
-
-
-# Home Page
-
-![App Screenshot](images/Screenshot%202023-07-11%20202142.png)
-
-
-# Add Page
-
-![App Screenshot](images/Screenshot%202023-07-12%20152102.png)
-
-# Edit Page
-![App Screenshot](images/Screenshot%202023-07-11%20201801.png)
->>>>>>> c034d64398369d54ce1e290c25fbd4202849eb96
-
-
-
-## 🛠 Skills
-Javascript, HTML, CSS, React, Node, Express, Trello, React Router, MongoDB, Mongoose
-
-
-## Tech Stack
-
-**Client:** React, Redux, JSX, JavaScript, HTML, CSS
-
-**Server:** Node, Express, Mongoose
-
-
 ## Running Tests
 
 To run tests, run the following command
@@ -81,7 +80,8 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd client
+  cd server
 ```
 
 Install dependencies
@@ -93,6 +93,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  server - nodemon start
+  client - npm run start
 ```
 
