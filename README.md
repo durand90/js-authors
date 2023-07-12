@@ -34,7 +34,6 @@ Web application built in Microsoft Visual Studio Code. Allows users to create a 
 
 ## Screenshots
 
-<<<<<<< HEAD
 
 # Home Page
 
