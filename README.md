@@ -38,14 +38,13 @@ Web application built in Microsoft Visual Studio Code. Allows users to create a 
 
 # Home Page
 
-![App Screenshot](images)
+![App Screenshot](images/Screenshot%202023-07-11%20202142.png)
 
 # Edit Page
-=======
-![App Screenshot](images/Screenshot%202023-07-11 201801.png)
+![App Screenshot](images/Screenshot%202023-07-11%20201801.png)
 >>>>>>> c034d64398369d54ce1e290c25fbd4202849eb96
 
-<img src="/client/Screenshot%202023-07-11%20201801.png">
+
 
 ## 🛠 Skills
 Javascript, HTML, CSS, React, Node, Express, Trello, React Router, MongoDB, Mongoose
