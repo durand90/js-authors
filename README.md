@@ -39,6 +39,11 @@ Web application built in Microsoft Visual Studio Code. Allows users to create a 
 
 ![App Screenshot](images/Screenshot%202023-07-11%20202142.png)
 
+
+# Add Page
+
+![App Screenshot](images/Screenshot%202023-07-12%20152102.png)
+
 # Edit Page
 ![App Screenshot](images/Screenshot%202023-07-11%20201801.png)
 >>>>>>> c034d64398369d54ce1e290c25fbd4202849eb96
