@@ -42,7 +42,7 @@ Web application built in Microsoft Visual Studio Code. Allows users to create a 
 
 # Edit Page
 =======
-![App Screenshot](images/Screenshot 2023-07-11 201801.png)
+![App Screenshot](images/Screenshot%202023-07-11 201801.png)
 >>>>>>> c034d64398369d54ce1e290c25fbd4202849eb96
 
 <img src="/client/Screenshot%202023-07-11%20201801.png">
